@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stickynote-vue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -36,3 +37,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# StickyNote
+StickyNote sederhana dikembangkan menggunakkan freamwork frontend Vue yang dimana untuk pemrogrammany masih menggunkkan data dummy
+>>>>>>> 725119636a650ebf145fd12e6c28ae48115e4b70
